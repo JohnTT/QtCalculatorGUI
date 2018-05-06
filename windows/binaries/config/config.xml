@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>QtTest</Name>
+    <Version>1.0.0</Version>
+    <Title>QtTest</Title>
+    <Publisher>John</Publisher>
+    <!-- Directory name is used in component.xml -->
+    <StartMenuDir>QtTest</StartMenuDir>
+    <TargetDir>@HomeDir@/QtTest</TargetDir>
+</Installer>
